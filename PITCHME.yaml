@@ -1,4 +1,3 @@
 theme : moon
 footnote : "Serendipity Team"
-vertical-center : false
 theme-override : PITCHME.css
