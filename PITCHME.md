@@ -20,7 +20,7 @@ Aus der Wikipedia zum Thema [Serendipität](https://de.wikipedia.org/wiki/Serend
 
 Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf php basierende Software, mit der man ein Weblog betreiben kann.
 
-Am Rande: Immer wenn jemand "der" Blog sagt, stirbt irgendwo ein Kätzchen ... (ich weiss das der Duden "der" und "das" erlaubt).
+Am Rande: Immer wenn jemand "der" Blog sagt, stirbt irgendwo ein Kätzchen ... (ich weiss, dass der Duden "der" und "das" erlaubt).
 
 ---
 
