@@ -164,7 +164,7 @@ https://www.robertlender.info/blog/
 
 Kleines Team rund um Garvin Hicking als "Chefentwickler".
 
-- Überwiegend deutschsprachig (niedrige Einstiegshürde)
+Überwiegend Muttersprache Deutsch (niedrige Einstiegshürde), Hauptsprache im Forum ist aber Englisch.
 
 ---
 
@@ -172,9 +172,9 @@ Kleines Team rund um Garvin Hicking als "Chefentwickler".
 
 GitHub - Pull Requests
 
-https://github.com/s9y/Serendipity
-https://github.com/s9y/additional_plugins
-https://github.com/s9y/additional_themes
+- https://github.com/s9y/Serendipity
+- https://github.com/s9y/additional_plugins
+- https://github.com/s9y/additional_themes
 
 ---
 
@@ -191,3 +191,7 @@ https://docs.s9y.org/camp.html
 Meist im Frühjahr im Linuxhotel.
 
 ---
+
+## Viel Spass beim Ausprobieren!
+
+Dirk Deimeke - [d5e.org](https://d5e.org/)
