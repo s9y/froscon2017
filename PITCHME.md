@@ -6,7 +6,7 @@ Not mainstream since 2002.
 
 ## Hintergrund
 
----
++++
 
 ### Bedeutung Serendipity
 
@@ -14,15 +14,17 @@ Aus der Wikipedia zum Thema [Serendipität](https://de.wikipedia.org/wiki/Serend
 
 > Der Begriff Serendipität (englisch serendipity), gelegentlich auch Serendipity-Prinzip oder Serendipitätsprinzip, bezeichnet eine zufällige Beobachtung von etwas ursprünglich nicht Gesuchtem, das sich als neue und überraschende Entdeckung erweist.
 
----
++++
 
 ### Ihr habt es nicht gesucht, aber gefunden :-)
 
 Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf php basierende Software, mit der man ein Weblog betreiben kann.
 
-<span style="color:gray; font-size:0.6em;">Am Rande: Immer wenn jemand "der" Blog sagt, stirbt irgendwo ein Kätzchen ... (ich weiss, dass der Duden "der" und "das" erlaubt).</span> 
+<span style="color:gray; font-size:0.6em;">Immer wenn jemand "der" Blog sagt, stirbt irgendwo ein Kätzchen ...</span>
 
----
+<span style="color:gray; font-size:0.4em;">Ich weiss, dass der Duden "der" und "das" Blog erlaubt.</span>
+
++++
 
 ### Geschichte
 
@@ -31,7 +33,7 @@ Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf php basier
 - Version 2.0 Ende 2015
 - Aktuell Version 2.1.1
 
----
++++
 
 ### Philosophie
 
@@ -41,7 +43,7 @@ Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf php basier
 - Langfristige Stabilität
 - BSD Lizenz
 
----
++++
 
 ### S9y steht für
 
@@ -50,7 +52,7 @@ Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf php basier
 - Erweiterbarkeit
 - Benutzerfreundlichkeit
 
----
++++
 
 ### Stimme aus der Community
 
@@ -63,7 +65,7 @@ https://www.hostblogger.de/blog/archives/6792-S9Y-2.0-meine-Erfahrungen.html
 
 ## Technisches
 
----
++++
 
 ### Installation
 
@@ -73,7 +75,7 @@ https://www.hostblogger.de/blog/archives/6792-S9Y-2.0-meine-Erfahrungen.html
   - PostgreSQL
   - SQLite
 
----
++++
 
 ### Artikelformat
 
@@ -82,14 +84,14 @@ https://www.hostblogger.de/blog/archives/6792-S9Y-2.0-meine-Erfahrungen.html
 - Markdown
 - XHtml
 
----
++++
 
 ### Plugins
 
 - Seitenleisten-Plugins aka Widgets
 - Ereignisplugins für alles andere
 
----
++++
 
 ### Spartacus
 
@@ -99,7 +101,7 @@ Installiert Plugins direkt aus dem Netz.
 
 [S]erendipity [P]lugin [A]ccess [R]epository [T]ool [A]nd [C]ustomization/[U]nification [S]ystem -
 
----
++++
 
 ### Themes
 
@@ -115,7 +117,7 @@ http://spartacus.s9y.org/index.php?mode=template_all
 
 ## Beispielblogs
 
----
++++
 
 ### Der Shopblogger
 
@@ -123,32 +125,32 @@ http://spartacus.s9y.org/index.php?mode=template_all
 
 http://www.shopblogger.de/blog/
 
----
++++
 
 ### Hostblogger.de
 
 https://www.hostblogger.de/blog/
 
----
++++
 
 ### About s9y
 
 https://abouts9y.org/
 
----
++++
 
 ### YellowLeds Weblog v2
 
 http://yellowled.de/
 
----
++++
 
 ### S9y InfoCamp
 (Podcast mit und über Serendipity)
 
 https://www.s9ycamp.info/
 
----
++++
 
 ### Beispiel: Nur ein Blog
 
@@ -158,7 +160,7 @@ https://www.robertlender.info/blog/
 
 ## Interaktion
 
----
++++
 
 ### Team
 
@@ -166,7 +168,7 @@ Kleines Team rund um Garvin Hicking als "Chefentwickler".
 
 Überwiegend Muttersprache Deutsch (niedrige Einstiegshürde), Hauptsprache im Forum ist aber Englisch.
 
----
++++
 
 ### Entwicklung
 
@@ -176,13 +178,13 @@ GitHub - Pull Requests
 - https://github.com/s9y/additional_plugins
 - https://github.com/s9y/additional_themes
 
----
++++
 
 ### Forum
 
 https://board.s9y.org/
 
----
++++
 
 ### S9y Camp
 
