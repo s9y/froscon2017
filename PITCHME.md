@@ -4,7 +4,11 @@ Not mainstream since 2002.
 
 ---
 
-## Bedeutung Serendipity
+## Hintergrund
+
+---
+
+### Bedeutung Serendipity
 
 Aus der Wikipedia zum Thema [Serendipität](https://de.wikipedia.org/wiki/Serendipit%C3%A4t)
 
@@ -12,7 +16,15 @@ Aus der Wikipedia zum Thema [Serendipität](https://de.wikipedia.org/wiki/Serend
 
 ---
 
-## Geschichte
+### Ihr habt es nicht gesucht, aber gefunden :-)
+
+Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf php basierende Software, mit der man ein Weblog betreiben kann.
+
+Am Rande: Immer wenn jemand "der" Blog sagt, stirbt irgendwo ein Kätzchen ... (ich weiss das der Duden "der" und "das" erlaubt).
+
+---
+
+### Geschichte
 
 - Entwicklung seit 2002
 - Version 1.0 in 2006
@@ -21,19 +33,17 @@ Aus der Wikipedia zum Thema [Serendipität](https://de.wikipedia.org/wiki/Serend
 
 ---
 
-## Philosophie
+### Philosophie
 
-- S9y ist eine Blogsoftware und nichts anderes - kein CMS
-- Ein Plugin pro Aufgabe, nicht mehrere Plugins für die gleiche Aufgabe
+- S9y ist eine Blogsoftware und nichts anderes
+- Ein Plugin pro Aufgabe
   - Ausnahme Antispam
 - Langfristige Stabilität
 - BSD Lizenz
 
 ---
 
-## Kernaussagen
-
-Serendipity oder kurz S9y steht für
+### S9y steht für
 
 - Verlässlichkeit
 - Sicherheit
@@ -42,26 +52,20 @@ Serendipity oder kurz S9y steht für
 
 ---
 
-## Team
+### Stimme aus der Community
 
-Kleines Team rund um Garvin Hicking als "Chefentwickler".
+Hostblogger Manuel Schmidt:
+> Da ich beruflich immer wieder mal mit WordPress zu tun habe, auch ein eindringlicher Tipp für alle, die ein reines Blog-System suchen: S9Y ist um Welten einfacher zu bedienen und bietet, wenn man mal ehrlich ist, alles, was man für ein reines Blog braucht. Wer WordPress natürlich als CMS missbraucht, für den ist es natürlich nichts.
 
-- Überwiegend deutschsprachig (niedrige Einstiegshürde)
-
----
-
-## Unsorted
+https://www.hostblogger.de/blog/archives/6792-S9Y-2.0-meine-Erfahrungen.html
 
 ---
 
-## Stimmen aus der Community
-
-- Hostblogger Manuel Schmidt
-> ... ein eindringlicher Tipp für alle, die ein reines Blog-System suchen: S9Y ist um Welten einfacher zu bedienen und bietet, wenn man mal ehrlich ist, alles, was man für ein reines Blog braucht.
+## Technisches
 
 ---
 
-## Installation
+### Installation
 
 - PHP wenigstens in Version 5.6
 - Datenbanken
@@ -69,17 +73,9 @@ Kleines Team rund um Garvin Hicking als "Chefentwickler".
   - PostgreSQL
   - SQLite
 
-TODO: Live-Demo
-
 ---
 
-## Spartacus
-
----
-
-## Artikelformat
-
-TODO: BILD
+### Artikelformat
 
 - WYSIWYG mit dem CKEditor
 - Textile
@@ -88,52 +84,110 @@ TODO: BILD
 
 ---
 
-## Plugins
+### Plugins
 
 - Seitenleisten-Plugins aka Widgets
+- Ereignisplugins für alles andere
 
 ---
 
-## Themes
+### Spartacus
+
+http://spartacus.s9y.org/
+
+Installiert Plugins direkt aus dem Netz.
+
+[S]erendipity [P]lugin [A]ccess [R]epository [T]ool [A]nd [C]ustomization/[U]nification [S]ystem -
 
 ---
 
-## Beispiel: Der Shopblogger
+### Themes
+
+http://spartacus.s9y.org/index.php?mode=template_all
+
+---
+
+## Live-Demo
+
+(Lokale virtuelle Maschine).
+
+---
+
+## Beispielblogs
+
+---
+
+### Der Shopblogger
+
 (knapp 20000 Artikel)
+
 http://www.shopblogger.de/blog/
 
 ---
 
-## Beispiel: Hostblogger.de
+### Hostblogger.de
 
 https://www.hostblogger.de/blog/
 
 ---
 
-## Beispiel: About s9y
+### About s9y
 
 https://abouts9y.org/
 
 ---
 
-## YellowLeds Weblog v2
+### YellowLeds Weblog v2
 
 http://yellowled.de/
 
 ---
 
-## S9y InfoCamp
+### S9y InfoCamp
 (Podcast mit und über Serendipity)
 
 https://www.s9ycamp.info/
 
 ---
 
-## Beispiel: Nur ein Blog
+### Beispiel: Nur ein Blog
 
 https://www.robertlender.info/blog/
+
 ---
 
-## Beispiel: Dirks Logbuch
+## Interaktion
 
-https://www.deimeke.net/dirk/blog/
+---
+
+### Team
+
+Kleines Team rund um Garvin Hicking als "Chefentwickler".
+
+- Überwiegend deutschsprachig (niedrige Einstiegshürde)
+
+---
+
+### Entwicklung
+
+GitHub - Pull Requests
+
+https://github.com/s9y/Serendipity
+https://github.com/s9y/additional_plugins
+https://github.com/s9y/additional_themes
+
+---
+
+### Forum
+
+https://board.s9y.org/
+
+---
+
+### S9y Camp
+
+https://docs.s9y.org/camp.html
+
+Meist im Frühjahr im Linuxhotel.
+
+---
