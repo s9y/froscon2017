@@ -18,7 +18,7 @@ Aus der Wikipedia zum Thema [Serendipität](https://de.wikipedia.org/wiki/Serend
 
 ### Ihr habt es nicht gesucht, aber gefunden :-)
 
-Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf php basierende Software, mit der man ein Weblog betreiben kann.
+Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf PHP basierende Software, mit der man ein Weblog betreiben kann.
 
 <span style="color:gray; font-size:0.6em;">Immer wenn jemand "der" Blog sagt, stirbt irgendwo ein Kätzchen ...</span>
 
@@ -60,6 +60,12 @@ Hostblogger Manuel Schmidt:
 > Da ich beruflich immer wieder mal mit WordPress zu tun habe, auch ein eindringlicher Tipp für alle, die ein reines Blog-System suchen: S9Y ist um Welten einfacher zu bedienen und bietet, wenn man mal ehrlich ist, alles, was man für ein reines Blog braucht. Wer WordPress natürlich als CMS missbraucht, für den ist es natürlich nichts.
 
 https://www.hostblogger.de/blog/archives/6792-S9Y-2.0-meine-Erfahrungen.html
+
++++
+
+### Fun fact!
+
+Rasmus Lerdorf - der Erfinder von PHP - nutzt auch Serendipity: https://toys.leerdorf.com
 
 ---
 
@@ -152,9 +158,15 @@ https://www.s9ycamp.info/
 
 +++
 
-### Beispiel: Nur ein Blog
+### Nur ein Blog
 
 https://www.robertlender.info/blog/
+
++++
+
+### Dark World
+
+http://dark-world.eu/s9y/
 
 ---
 
