@@ -1,4 +1,4 @@
-# Presentation of Serendipity for FrOSCon 2017
+# Presentation of Serendipity for FrOSCon 2017 (German)
 
 Contributions welcome.
 
