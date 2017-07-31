@@ -56,7 +56,7 @@ Serendipity oder kurz S9y ist für die Dauer dieses Vortrags eine auf PHP basier
 
 ### Stimme aus der Community
 
-Hostblogger Manuel Schmidt:
+Hostblogger Manuel Schmitt:
 > Da ich beruflich immer wieder mal mit WordPress zu tun habe, auch ein eindringlicher Tipp für alle, die ein reines Blog-System suchen: S9Y ist um Welten einfacher zu bedienen und bietet, wenn man mal ehrlich ist, alles, was man für ein reines Blog braucht. Wer WordPress natürlich als CMS missbraucht, für den ist es natürlich nichts.
 
 https://www.hostblogger.de/blog/archives/6792-S9Y-2.0-meine-Erfahrungen.html
