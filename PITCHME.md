@@ -101,7 +101,7 @@ Rasmus Lerdorf - der Erfinder von PHP - nutzt auch Serendipity: https://toys.lee
 
 ### Spartacus
 
-http://spartacus.s9y.org/
+http://spartacus.s9y.org
 
 Installiert Plugins direkt aus dem Netz.
 
@@ -141,20 +141,20 @@ https://www.hostblogger.de/blog/
 
 ### About s9y
 
-https://abouts9y.org/
+https://abouts9y.org
 
 +++
 
 ### YellowLeds Weblog v2
 
-http://yellowled.de/
+http://yellowled.de
 
 +++
 
 ### s9y InfoCamp
 (Podcast mit und über Serendipity)
 
-https://www.s9ycamp.info/
+https://www.s9ycamp.info
 
 +++
 
@@ -194,7 +194,7 @@ GitHub - Pull Requests
 
 ### Forum
 
-https://board.s9y.org/
+https://board.s9y.org
 
 +++
 
@@ -208,4 +208,4 @@ Meist im Frühjahr im Linuxhotel.
 
 ## Viel Spass beim Ausprobieren!
 
-Dirk Deimeke - [d5e.org](https://d5e.org/)
+Dirk Deimeke - [d5e.org](https://d5e.org)
