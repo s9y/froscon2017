@@ -41,6 +41,7 @@ body {
 
 .reveal blockquote {
     box-shadow: none;
+    font-size: .9em !important;
     padding: 0;
     width: 80%;
 }
@@ -69,10 +70,10 @@ body {
     border-top-color: #374d76;
 }
 
-.note-1 {
+.reveal span.note-1 {
     font-size: .6em;
 }
 
-.note-2 {
+.reveal span.note-2 {
     font-size: .4em;
 }
