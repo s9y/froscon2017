@@ -20,9 +20,9 @@ Aus der Wikipedia zum Thema [Serendipität](https://de.wikipedia.org/wiki/Serend
 
 Serendipity oder kurz s9y ist für die Dauer dieses Vortrags eine auf PHP basierende Software, mit der man ein Weblog betreiben kann.
 
-<span style="color:gray; font-size:0.6em;">Immer wenn jemand "der" Blog sagt, stirbt irgendwo ein Kätzchen ...</span>
+<span class="note-1">Immer wenn jemand "der" Blog sagt, stirbt irgendwo ein Kätzchen ...</span>
 
-<span style="color:gray; font-size:0.4em;">Ich weiss, dass der Duden "der" und "das" Blog erlaubt.</span>
+<span class="note-2">Ich weiss, dass der Duden "der" und "das" Blog erlaubt.</span>
 
 +++
 

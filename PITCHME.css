@@ -45,6 +45,10 @@ body {
     width: 80%;
 }
 
+.reveal ul ul {
+    list-style: disc;
+}
+
 .reveal .controls .navigate-left,
 .reveal .controls .navigate-left.enabled {
     border-right-color: #374d76;
@@ -63,4 +67,12 @@ body {
 .reveal .controls .navigate-down,
 .reveal .controls .navigate-down.enabled {
     border-top-color: #374d76;
+}
+
+.note-1 {
+    font-size: .6em;
+}
+
+.note-2 {
+    font-size: .4em;
 }
