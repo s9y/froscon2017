@@ -1,3 +1,11 @@
+body {
+    background: #ccdee7;
+}
+
+.reveal {
+    color: #374d76;
+}
+
 .reveal .slides {
     text-align: left;
 }
@@ -5,4 +13,9 @@
 .reveal .slides section > * {
     margin-left: 0;
     margin-right: 0;
+}
+
+#gp-logo {
+    left: auto;
+    right: 20px;
 }
