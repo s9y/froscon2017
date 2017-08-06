@@ -88,7 +88,7 @@ Rasmus Lerdorf - der Erfinder von PHP - nutzt auch Serendipity: https://toys.lee
 - WYSIWYG mit dem CKEditor
 - Textile
 - Markdown
-- XHtml
+- HTML
 
 +++
 
