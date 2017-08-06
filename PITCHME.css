@@ -39,6 +39,12 @@ body {
     margin-right: 0;
 }
 
+.reveal blockquote {
+    box-shadow: none;
+    padding: 0;
+    width: 80%;
+}
+
 .reveal .controls .navigate-left,
 .reveal .controls .navigate-left.enabled {
     border-right-color: #374d76;
