@@ -127,7 +127,7 @@ http://spartacus.s9y.org/index.php?mode=template_all
 
 ### Der Shopblogger
 
-(knapp 20000 Artikel)
+(knapp 20.000 Artikel)
 
 http://www.shopblogger.de/blog/
 
