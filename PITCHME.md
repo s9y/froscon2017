@@ -95,7 +95,7 @@ Rasmus Lerdorf - der Erfinder von PHP - nutzt auch Serendipity: https://toys.lee
 ### Plugins
 
 - Seitenleisten-Plugins aka Widgets
-- Ereignisplugins für alles andere
+- Ereignis-Plugins für alles andere
 
 +++
 
