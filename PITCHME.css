@@ -9,9 +9,17 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6,
-#gp-logo + div > span,
 .reveal a {
     color: #374d76;
+}
+
+#gp-logo {
+    left: auto !important;
+    right: 20px;
+}
+
+#gp-logo + div > span {
+    color: #374d76 !important;
 }
 
 .reveal a {
@@ -29,11 +37,6 @@ body {
 .reveal .slides section > * {
     margin-left: 0;
     margin-right: 0;
-}
-
-#gp-logo {
-    left: auto !important;
-    right: 20px;
 }
 
 .reveal .controls .navigate-left,
