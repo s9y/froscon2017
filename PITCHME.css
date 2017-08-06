@@ -2,8 +2,24 @@ body {
     background: #ccdee7;
 }
 
-.reveal {
+.reveal,
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6,
+#gp-logo + div > span,
+.reveal a {
     color: #374d76;
+}
+
+.reveal a {
+    text-decoration: underline;
+}
+
+.reveal a:hover {
+    color: #000;
 }
 
 .reveal .slides {
@@ -16,6 +32,26 @@ body {
 }
 
 #gp-logo {
-    left: auto;
+    left: auto !important;
     right: 20px;
+}
+
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-left.enabled {
+    border-right-color: #374d76;
+}
+
+.reveal .controls .navigate-right,
+.reveal .controls .navigate-right.enabled {
+    border-left-color: #374d76;
+}
+
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-up.enabled {
+    border-bottom-color: #374d76;
+}
+
+.reveal .controls .navigate-down,
+.reveal .controls .navigate-down.enabled {
+    border-top-color: #374d76;
 }
