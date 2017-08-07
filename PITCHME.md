@@ -139,15 +139,21 @@ http://www.shopblogger.de/blog/
 
 https://www.hostblogger.de/blog/
 
+![Hostblogger](screenshots/hostblogger.png)
+
 +++
 
 ### About s9y
+
+![About s9y](screenshots/abouts9y.png)
 
 https://abouts9y.org
 
 +++
 
 ### YellowLeds Weblog v2
+
+![YellowLed](screenshots/yellowled.png)
 
 http://yellowled.de
 
@@ -156,17 +162,21 @@ http://yellowled.de
 ### s9y InfoCamp
 (Podcast mit und über Serendipity)
 
+![s9y InfoCamp](screenshots/s9ycamp.png)
+
 https://www.s9ycamp.info
 
 +++
 
-### Nur ein Blog
+![Nur ein Blog](screenshots/nureinblog.png)
 
 https://www.robertlender.info/blog/
 
 +++
 
 ### Dark World
+
+![Dark World](screenshots/dark-world.png)
 
 http://dark-world.eu/s9y/
 
