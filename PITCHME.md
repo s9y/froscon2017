@@ -111,7 +111,7 @@ Installiert Plugins direkt aus dem Netz.
 
 ### Themes
 
-http://spartacus.s9y.org/index.php?mode=template_all
+![http://spartacus.s9y.org/index.php?mode=template_all](screenshots/templates-spartacus.png)
 
 ---
 
