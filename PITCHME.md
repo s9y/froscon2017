@@ -123,7 +123,7 @@ Installiert Plugins direkt aus dem Netz.
 
 ## Beispielblogs
 
-+++?image=screenshots/shopblogger.png
++++
 
 ### Der Shopblogger
 
@@ -131,25 +131,33 @@ Installiert Plugins direkt aus dem Netz.
 
 [www.shopblogger.de/blog/](http://www.shopblogger.de/blog/)
 
-+++?image=screenshots/hostblogger.png
++++?image=screenshots/shopblogger.png
+
++++
 
 ### Hostblogger.de
 
 [www.hostblogger.de/blog/](https://www.hostblogger.de/blog/)
 
-+++?image=screenshots/abouts9y.png
++++?image=screenshots/hostblogger.png
+
++++
 
 ### About s9y
 
 [abouts9y.org](https://abouts9y.org)
 
-+++?image=screenshots/yellowled.png
++++?image=screenshots/abouts9y.png
+
++++
 
 ### YellowLeds Weblog v2
 
 [yellowled.de](http://yellowled.de)
 
-+++?image=screenshots/s9ycamp.png
++++?image=screenshots/yellowled.png
+
++++
 
 ### s9y InfoCamp
 
@@ -157,17 +165,23 @@ Installiert Plugins direkt aus dem Netz.
 
 [www.s9ycamp.info](https://www.s9ycamp.info)
 
-+++?image=screenshots/nureinblog.png
++++?image=screenshots/s9ycamp.png
+
++++
 
 ### Nur ein Blog
 
 [www.robertlender.info/blog/](https://www.robertlender.info/blog/)
 
-+++?image=screenshots/dark-world.png
++++?image=screenshots/nureinblog.png
+
++++
 
 ### Dark World
 
 [dark-world.eu/s9y/](http://dark-world.eu/s9y/)
+
++++?image=screenshots/dark-world.png
 
 ---
 
