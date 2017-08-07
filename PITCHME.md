@@ -133,11 +133,9 @@ http://www.shopblogger.de/blog/
 
 ![Shopblogger](screenshots/shopblogger.png)
 
-+++
++++?image=screenshots/hostblogger.png
 
 ### Hostblogger.de
-
----?image=screenshots/hostblogger.png
 
 +++
 
