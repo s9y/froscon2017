@@ -131,7 +131,7 @@ Installiert Plugins direkt aus dem Netz.
 
 http://www.shopblogger.de/blog/
 
-![Shopblogger](screenshots/shopbloggerpng)
+![Shopblogger](screenshots/shopblogger.png)
 
 +++
 
