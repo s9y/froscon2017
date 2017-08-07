@@ -137,9 +137,7 @@ http://www.shopblogger.de/blog/
 
 ### Hostblogger.de
 
-https://www.hostblogger.de/blog/
-
-![Hostblogger](screenshots/hostblogger.png)
+---?screenshots/hostblogger.png
 
 +++
 
