@@ -123,58 +123,51 @@ Installiert Plugins direkt aus dem Netz.
 
 ## Beispielblogs
 
-+++
++++?image=screenshots/shopblogger.png
 
 ### Der Shopblogger
 
 (knapp 20.000 Artikel)
 
-http://www.shopblogger.de/blog/
-
-![Shopblogger](screenshots/shopblogger.png)
+[www.shopblogger.de/blog/](http://www.shopblogger.de/blog/)
 
 +++?image=screenshots/hostblogger.png
 
 ### Hostblogger.de
 
-+++
+[www.hostblogger.de/blog/](https://www.hostblogger.de/blog/)
+
++++?image=screenshots/abouts9y.png
 
 ### About s9y
 
-![About s9y](screenshots/abouts9y.png)
+[abouts9y.org](https://abouts9y.org)
 
-https://abouts9y.org
-
-+++
++++?image=screenshots/yellowled.png
 
 ### YellowLeds Weblog v2
 
-![YellowLed](screenshots/yellowled.png)
+[yellowled.de](http://yellowled.de)
 
-http://yellowled.de
-
-+++
++++?image=screenshots/s9ycamp.png
 
 ### s9y InfoCamp
+
 (Podcast mit und über Serendipity)
 
-![s9y InfoCamp](screenshots/s9ycamp.png)
+[www.s9ycamp.info](https://www.s9ycamp.info)
 
-https://www.s9ycamp.info
++++?image=screenshots/nureinblog.png
 
-+++
+### Nur ein Blog
 
-![Nur ein Blog](screenshots/nureinblog.png)
+[www.robertlender.info/blog/](https://www.robertlender.info/blog/)
 
-https://www.robertlender.info/blog/
-
-+++
++++?image=screenshots/dark-world.png
 
 ### Dark World
 
-![Dark World](screenshots/dark-world.png)
-
-http://dark-world.eu/s9y/
+[dark-world.eu/s9y/](http://dark-world.eu/s9y/)
 
 ---
 
